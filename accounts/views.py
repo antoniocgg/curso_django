@@ -11,7 +11,7 @@ def register_view(request):
     context = {"form": form}
     return render(request, "accounts/register.html",context)
 
-print("helo")
+
 
 # Create your views here.
 def login_view(request):
