@@ -6055,3 +6055,5 @@ curso_django/__pycache__/settings.cpython-38.pyc
 curso_django/__pycache__/urls.cpython-38.pyc
 curso_django/__pycache__/views.cpython-38.pyc
 curso_django/__pycache__/wsgi.cpython-38.pyc
+articles/__pycache__/admin.cpython-38.pyc
+articles/__pycache__/models.cpython-38.pyc
